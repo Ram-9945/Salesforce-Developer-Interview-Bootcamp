@@ -1,0 +1,5 @@
+SELECT Id,
+       Name,
+       Min_cgpa__c,
+       Status__c
+FROM Job__c

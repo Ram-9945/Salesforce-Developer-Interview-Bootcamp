@@ -1,0 +1,5 @@
+SELECT Id,
+       Name,
+       Cgpa__c,
+       Status__c
+FROM Student__c

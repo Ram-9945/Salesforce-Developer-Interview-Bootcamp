@@ -1,0 +1,5 @@
+SELECT Id,
+       Student__r.Name,
+       Job__r.Name,
+       Applied_Under_Review_Selected_Rejected__c
+FROM Application__c
